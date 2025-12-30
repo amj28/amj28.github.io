@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/078f82d260a4cebd.css","style"]
+:HL["/github.png","image"]
+:HL["/linkedin.png","image"]
+0:{"buildId":"CDC06WvWC3eTvDi4nti90","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
