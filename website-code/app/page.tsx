@@ -5,7 +5,7 @@ import "./output.css";
 
 export default function HomePage() {
   return (
-    <div className="bg-background pretty-scrollbar font-sans mx-auto min-h-screen max-w-[900px] flex flex-col px-6 py-8 md:gap-20 md:py-16 text-neutral-400 text-sm relative">
+    <div className="bg-background pretty-scrollbar font-sans mx-auto min-h-screen max-w-[900px] flex flex-col px-6 py-8 md:gap-18 md:py-14 text-neutral-400 text-sm relative">
       <header className="flex justify-between items-center">
         <span>Abdullahi's portfolio</span>
         <span className="flex gap-2">
