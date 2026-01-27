@@ -1,4 +1,0 @@
-:HL["/_next/static/chunks/df2b86eb0cdcb269.css","style"]
-:HL["/github.png","image"]
-:HL["/linkedin.png","image"]
-0:{"buildId":"VhZK9AbBwIUtAWwKyE1db","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

@@ -10,10 +10,22 @@ interface Project {
 
 const projects: Project[] = [
   {
+    title: "Bitmapper",
+    description: "Tool to easily draw/make bitmaps",
+    tags: ["Typescript", "Nextjs"],
+    link: "https://amj28.github.io/bitmapper",
+  },
+  {
     title: "Biquadris",
     description: "A clone/remaking of tetris, following OOP principles and in C++",
-    tags: ["C++", "Object Oriented Programming"],
+    tags: ["C++", "OOP", "school project"],
     link: "https://github.com/amj28/",
+  },
+  {
+    title: "Bottle",
+    description: "bot that plays the official wordle game",
+    tags: ["C++", "python", "Selenium", "pybind11"],
+    link: "https://github.com/amj28/bottle",
   },
   // Add more projects here
 ];
